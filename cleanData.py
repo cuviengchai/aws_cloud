@@ -1,3 +1,4 @@
+import json
 def accumulateFile(folder, filename_list):
     output_list = dict()
     for file in filename_list:
